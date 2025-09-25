@@ -8,15 +8,9 @@ It is designed for students, researchers, and developers who want to strengthen 
 
 🔹 Python Basics for AI (loops, functions, OOP, etc.)
 
-🔹 Data Structures – lists, stacks, queues, linked lists, hash tables
-
-🔹 Algorithms – sorting, searching, recursion
+🔹 RAG Based AI Implementations
 
 🔹 AI-Focused Implementations –
-
-Search Algorithms (BFS, DFS, A*)
-
-Heuristic-based approaches
 
 Problem-solving examples
 
